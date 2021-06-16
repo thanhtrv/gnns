@@ -1,5 +1,5 @@
 # My essential reading list on GNNs
-Give a start if it helps you. Thank you :)
+Give it a start if it helps you. Thank you :)
 ## [Content](#content)
 
 <table>
