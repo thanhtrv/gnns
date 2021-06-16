@@ -1,5 +1,5 @@
 # My essential reading list on GNNs
-
+Give a start if it helps you. Thank you :)
 ## [Content](#content)
 
 <table>
@@ -15,6 +15,11 @@
 </tr>
 
 </table>
+
+### [Courses]
+1. **Notes of CS224W: Machine Learning with Graphs** CS224W. [link](https://snap-stanford.github.io/cs224w-notes/)
+2. **CS224W: Machine Learning with Graphs** CS224W. [link](http://web.stanford.edu/class/cs224w/)
+
 
 ### [Basic Models](#content)
 1. **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.** NIPS 2016. [paper](http://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf)
